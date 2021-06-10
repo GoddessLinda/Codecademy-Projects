@@ -1,0 +1,3 @@
+This project was created by Linda M Smith, owner of Heart And Star Studios and Codecademy student.  If interested in working with me, email GoddessLinda@gmail.com, subject line "Codecademy".  Please visit https://heartandstarstudios.wordpress.com to find out more about what I do for extra income.  
+
+This project was created using HTML5, CSS3, and VSCode.  Have mercy on me; I am still learning new tools and brushing up on old tech skills!  
