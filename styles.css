@@ -15,3 +15,9 @@ p {
     font-size: 14 pts, 
     font-weight: bold, 
 }
+
+img {
+    height: 300 pixels;
+    length: 300 pixels; 
+    align: left; 
+}
