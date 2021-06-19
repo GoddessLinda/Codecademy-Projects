@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+    font-family:  Zapfino, Arial;
+    font-size: 14 pts; 
+    color: black;
+}
+
+h1 {
+    font-family: "Times New Roman";
+    font-size: 16 pts;
+    color: blue; 
+}
+
+p {
+    font-family: Fantasy, Arial,
+    font-size: 14 pts; 
+    font-weight: bold; 
+}
+
+img {
+    height: 300 pixels;
+    length: 300 pixels; 
+    align: left; 
+}
