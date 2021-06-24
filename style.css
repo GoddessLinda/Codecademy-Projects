@@ -5,10 +5,29 @@ body {
     color: black;
 }
 
+#nav {
+    background-color: green;
+    color: white;
+    font-weight: bold; 
+}
+
+li hover {
+    color: gold; 
+}
+
 h1 {
     font-family: "Times New Roman";
     font-size: 16 pts;
     color: blue; 
+}
+
+h2 {
+    font-size: 14px; 
+}
+
+h3 {
+    font-size: 12px; 
+    font-weight: bolder; 
 }
 
 p {
@@ -21,4 +40,13 @@ img {
     height: 300 pixels;
     length: 300 pixels; 
     align: left; 
+    margin: 5px;
+    padding: 3px;
+    border: 5 pxs;
+    border-color: purple; 
+}
+
+#footer {
+    font-size: 12px; 
+    align: center; 
 }
